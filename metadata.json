@@ -1,0 +1,8 @@
+{
+  "name": "ProResume Builder",
+  "description": "A high-end, interactive web resume builder with admin-protected editing, media support, and AI-powered content enhancement.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
