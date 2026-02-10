@@ -1,4 +1,3 @@
-
 {
   "name": "pro-resume-vanilla",
   "version": "1.0.0",
@@ -9,7 +8,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@google/genai": "^0.1.2"
+    "@google/genai": "latest"
   },
   "devDependencies": {
     "vite": "^5.3.4"
